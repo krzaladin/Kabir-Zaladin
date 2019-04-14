@@ -27,6 +27,35 @@ Currently I have some surface and beyond level knowledge in cinematography. I’
 -	More capital to further various projects.
 -	Connections with people in the technological industry ranging from household tech (stoves, washers, refrigerators, vacuums, etc.) to portable embedded tech for productivity (computers, phones, tablets, etc.) 
 
+Sales/Marketing Skills 
+ 
+• Drafted quotes yielding on average, 10 potential orders per day. • Expanded sales 20% by enlightening customers about new products. 
+• Negotiated with customers to secure a longevity relationship. 
+
+Production/Graphic Design Skills 
+• Designed digital signage and staples to meet customer’s expectations. 
+• Established customer satisfaction and loyalty by producing signage and staples to meet everyday demand. 
+• Halved cost of production by efficiently making use of materials 
+
+Organizational/ Management Skills 
+
+• Handled high volume of calls that doubled orders per day. 
+• Operated daily activities on a timely schedule, halving labor costs. 
+• Set customer follow up reminders for fellow colleagues strengthening customer relationship. 
+• Operated store on occasions without supervision. 
+
+
+#### Education 
+Bachelors of Science – Information Technology                     Undetermined GPA Florida International University, Miami, FL                                                                                                                     Graduation: May 2019 
+
+Associates in Arts – General Education                                                       3.5 GPA Broward College, Davie, FL                                                                                                                    Graduation: Aug 2017 
+
+
+#### Employment Assistant Store Manager – Fast Signs                                                     (part-time, 2016 – 2017) 
+Worked along a production and marketing team. Problems arose as a team internally however, it was dealt by having meetings. Documentation and heavy problem solving were vital skills needed to function on a daily basis. We grew to be proficient as a team. Sales Representative – 
+
+#### GameStop                                                                                            (part-time, 2014 – 2016) 
+Mastered time management and adapted to a fast-paced work environment. Retained customers by offering alternatives for a resolution. Inventory was accounted for every day. Social skills were crucial for such a working environment as sales were done in person.
 
 # Header 1
 ## Header 2
