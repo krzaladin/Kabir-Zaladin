@@ -27,57 +27,36 @@ Currently I have some surface and beyond level knowledge in cinematography. I’
 -	More capital to further various projects.
 -	Connections with people in the technological industry ranging from household tech (stoves, washers, refrigerators, vacuums, etc.) to portable embedded tech for productivity (computers, phones, tablets, etc.) 
 
-Sales/Marketing Skills 
+#### Sales/Marketing Skills 
  
-• Drafted quotes yielding on average, 10 potential orders per day. • Expanded sales 20% by enlightening customers about new products. 
-• Negotiated with customers to secure a longevity relationship. 
+- Drafted quotes yielding on average, 10 potential orders per day.
+- Expanded sales 20% by enlightening customers about new products. 
+- Negotiated with customers to secure a longevity relationship. 
 
-Production/Graphic Design Skills 
-• Designed digital signage and staples to meet customer’s expectations. 
-• Established customer satisfaction and loyalty by producing signage and staples to meet everyday demand. 
-• Halved cost of production by efficiently making use of materials 
+#### Production/Graphic Design Skills 
+- Designed digital signage and staples to meet customer’s expectations. 
+- Established customer satisfaction and loyalty by producing signage and staples to meet everyday demand. 
+- Halved cost of production by efficiently making use of materials 
 
-Organizational/ Management Skills 
+#### Organizational/ Management Skills 
 
-• Handled high volume of calls that doubled orders per day. 
-• Operated daily activities on a timely schedule, halving labor costs. 
-• Set customer follow up reminders for fellow colleagues strengthening customer relationship. 
-• Operated store on occasions without supervision. 
+- Handled high volume of calls that doubled orders per day. 
+- Operated daily activities on a timely schedule, halving labor costs. 
+- Set customer follow up reminders for fellow colleagues strengthening customer relationship. 
+- Operated store on occasions without supervision. 
 
 
 #### Education 
-Bachelors of Science – Information Technology                     Undetermined GPA Florida International University, Miami, FL                                                                                                                     Graduation: May 2019 
+Bachelors of Science – Information Technology                     Undetermined GPA Florida International University, Miami, FL                                                                                                                     _Graduation: May 2019_
 
-Associates in Arts – General Education                                                       3.5 GPA Broward College, Davie, FL                                                                                                                    Graduation: Aug 2017 
+Associates in Arts – General Education                                                       3.5 GPA Broward College, Davie, FL                                                                                                                    _Graduation: Aug 2017_ 
 
 
-#### Employment Assistant Store Manager – Fast Signs                                                     (part-time, 2016 – 2017) 
-Worked along a production and marketing team. Problems arose as a team internally however, it was dealt by having meetings. Documentation and heavy problem solving were vital skills needed to function on a daily basis. We grew to be proficient as a team. Sales Representative – 
+#### Employment Assistant Store Manager – Fast Signs                                                     _(part-time, 2016 – 2017)_ 
+Worked along a production and marketing team. Problems arose as a team internally however, it was dealt by having meetings. Documentation and heavy problem solving were vital skills needed to function on a daily basis. We grew to be proficient as a team. 
 
-#### GameStop                                                                                            (part-time, 2014 – 2016) 
+#### Sales Representative – GameStop                                                                     _(part-time, 2014 – 2016)_ 
 Mastered time management and adapted to a fast-paced work environment. Retained customers by offering alternatives for a resolution. Inventory was accounted for every day. Social skills were crucial for such a working environment as sales were done in person.
 
-# Header 1
-## Header 2
-### Header 3
+### _Contact: KZala001@fiu.edu_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krzaladin/KrWebPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
