@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## Kabir Zaladin
 
-You can use the [editor on GitHub](https://github.com/krzaladin/KrWebPage/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a full time student at FIU and part time content creator. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've worked on a few projects for cinematography and hope to continue going through this industry. I hope to one day have my own
+production company here in Miami.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Kabir Zaladin, and I’m from South America. I grew up with tinkering with technology since it’s not readily available where I grew up (Guyana). Also, it’s important to note that where I’m from, entrepreneurship is 70% of what makes a living for people in this country since there is no stable industry. Most of this is due to no products, services, scientific, or technological advances being made in the country. Coming, to America wasn’t what I thought it was. I assumed an average degree from the average college would cut it but it only let’s you live to work. Recently I’ve gotten into the world of cinematography and the keen eye for critiquing the usability of products. I’m hoping to establish my own company where I can give second opinions somewhat similar to consumer reports. I would document these products and critique them in a video format for people to make an informative decision. 
 
-```markdown
+```About Me
 Syntax highlighted code block
 
 # Header 1
