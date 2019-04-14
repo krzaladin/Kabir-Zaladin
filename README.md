@@ -47,9 +47,9 @@ Currently I have some surface and beyond level knowledge in cinematography. I’
 
 
 #### Education 
-Bachelors of Science – Information Technology                     Undetermined GPA Florida International University, Miami, FL                                                                                                                     _Graduation: May 2019_
+**Bachelors of Science – Information Technology**                     Undetermined GPA Florida International University, Miami, FL                                                                                                                     _Graduation: Dec 2019_
 
-Associates in Arts – General Education                                                       3.5 GPA Broward College, Davie, FL                                                                                                                    _Graduation: Aug 2017_ 
+**Associates in Arts – General Education**                                                       3.5 GPA Broward College, Davie, FL                                                                                                                    _Graduation: Aug 2017_ 
 
 
 #### Employment Assistant Store Manager – Fast Signs                                                     _(part-time, 2016 – 2017)_ 
